@@ -19,4 +19,4 @@ You can have a glimpse of what I'm studying by checking:
 
 >  **[Hello World](https://github.com/elcapo/hello_world)** contains a few basic neural network examples inspired while I was following [Laurence Moroney](lmoroney)'s [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/info) course in Coursera.
 
->  **[Kapotic Layers](https://github.com/elcapo/kapotic_layers)** is a natural continuation of the questions that I found while playing with the Hello World networks.
+>  **[Experimental Layers](https://github.com/elcapo/experimental_layers)** is a natural continuation of the questions that I found while playing with the Hello World networks.
