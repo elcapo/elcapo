@@ -19,4 +19,6 @@ You can have a glimpse of what I'm studying by checking:
 
 >  **[Hello World](https://github.com/elcapo/hello_world)** contains a few basic neural network examples inspired while I was following [Laurence Moroney](lmoroney)'s [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/info) course in Coursera.
 
->  **[Experimental Layers](https://github.com/elcapo/experimental_layers)** is a natural continuation of the questions that I found while playing with the Hello World networks.
+>  **[Experimental Layers](https://github.com/elcapo/experimental_layers)** is a natural continuation of the questions that I found while playing with the Hello World networks, where I experiment with tools to help neural networks to understand non periodic functions.
+
+> **[Spanish Wiktionary Parser](https://github.com/elcapo/eswiktionary_parser)** is a simple one-purpose parser that transforms Spanish Wiktionary dump files into easier to read and process `csv` files.
