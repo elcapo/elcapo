@@ -21,6 +21,6 @@ You can have a glimpse of what I'm studying by checking:
 
 >  **[Experimental Layers](https://github.com/elcapo/experimental_layers)** is a natural continuation of the questions that I found while playing with the Hello World networks, where I experiment with tools to help neural networks to understand non periodic functions.
 
-> **[Spanish Wiktionary Parser](https://github.com/elcapo/eswiktionary_parser)** is a simple one-purpose parser that transforms Spanish Wiktionary dump files into easier to read and process `csv` files. This parser was used to create the following HuggingFace dataset: [carloscapote/es.wiktionary.org](https://huggingface.co/datasets/carloscapote/es.wiktionary.org).
+> **[Spanish Wiktionary Parser](https://github.com/elcapo/eswiktionary_parser)** is a simple one-purpose parser that transforms Spanish Wiktionary dump files into easier to read and process `csv` files. This parser was used to create the [carloscapote/es.wiktionary.org](https://huggingface.co/datasets/carloscapote/es.wiktionary.org) HuggingFace dataset.
 
 > **[Exprimidora](https://github.com/elcapo/exprimidora)** is a Spanish verb conjugator written to simplify the Wiktionary exports, as it contains more conjugations than actual definitions.
