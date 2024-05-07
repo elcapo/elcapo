@@ -10,7 +10,14 @@ I've been working with computers for more than 20 years. I focused my last 15 ye
 *   ✉️  You can contact me at [carlos.capote@hawara.es.](mailto:carlos.capote@hawara.es.)
 *   🧠  I'm learning how to use machine learning for good, although I still keep studying things that help me working better for the organizations I collaborate with: like domain driven design, software architectural principles, frontend development, etc.
 
-Latest Lessons and Experiments
+PHP Works
+---------
+
+> **[Spanish VAT Numbers](https://github.com/hawara-es/spanish-vat-numbers)** is a PHP library that provides validations for Spanish VAT numbers (NIF, NIE and CIF).
+
+> **[Criba](https://github.com/hawara-es/criba)** is a pedagogical package where I implemented the criteria pattern in PHP. It features an Eloquent implementation that facilitates using it the repositories of an application writen under the Domain Driven Design principles.
+
+Python Lessons and Experiments
 ------------------------------
 
 You can have a glimpse of what I'm studying by checking:
