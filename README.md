@@ -13,9 +13,13 @@ I've been working with computers for more than 20 years. I focused my last 15 ye
 PHP Works
 ---------
 
-> **[Spanish VAT Numbers](https://github.com/hawara-es/spanish-vat-numbers)** is a PHP library that provides validations for Spanish VAT numbers (NIF, NIE and CIF).
+> **[Guagua](https://github.com/hawara-es/guagua)** is a PHP implementation of a command, query and event buses. It's a package intended to showcase the buses needed for a standard CQRS application.
 
-> **[Criba](https://github.com/hawara-es/criba)** is a pedagogical package where I implemented the criteria pattern in PHP. It features an Eloquent implementation that facilitates using it the repositories of an application writen under the Domain Driven Design principles.
+> **[Criba](https://github.com/hawara-es/criba)** is an implementation of the criteria pattern in PHP. It features an Eloquent implementation that facilitates using it the repositories of an application writen under the Domain Driven Design principles.
+
+The **Guagua** and **Criba** packages exist for pedagogical purposes and they are not intended for production usage.
+
+> **[Spanish VAT Numbers](https://github.com/hawara-es/spanish-vat-numbers)** is a very simple PHP library that provides validations for Spanish VAT numbers (NIF, NIE and CIF). It does not have production dependencies, what makes it lightweight and suitable for many production use cases.
 
 Python Lessons and Experiments
 ------------------------------
