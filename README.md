@@ -1,5 +1,3 @@
-# ¡Hola! Soy Carlos Capote
-
 ## Consultor en programación y análisis de datos
 
 Trabajo en el sector de la informática desde hace más de 20 años. Trabajo en diseño de aplicaciones de bases de datos corporativas optimizadas para su análisis en tiempo real. Ayudo a organizaciones a revisar y mejorar sus procesos internos a través de la digitalización.
