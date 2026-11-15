@@ -1,7 +1,8 @@
-## Consultor en programación y análisis de datos
+## Responsable de proyectos informáticos y bases de datos
 
-Trabajo en el sector de la informática desde hace más de 20 años. Trabajo en diseño de aplicaciones de bases de datos corporativas optimizadas para su análisis en tiempo real. Ayudo a organizaciones a revisar y mejorar sus procesos internos a través de la digitalización.
+Soy informático desde hace más de 25 años. Soy tan viejo que aún me gusta el término "_informático_". Me centro en el diseño de aplicaciones que facilitan la toma de decisiones en tiempo real. Trabajo para [Amnistía Internacional España](https://www.es.amnesty.org) aunque mi cuenta de GitHub es principalmente personal.
 
+*   🧠  Trato de aplicar los últimos avances tecnológicos a la transformación social.
+*   ♥️  Defiendo que las tecnologías libres son un fundamento imprescindible para una democracia sana.
+*   ✉️  Puedes contactar conmigo en [Linkedin](https://www.linkedin.com/in/carlos-capote-perez-andreu/).
 *   🌍  Trabajo desde las Islas Canarias.
-*   ✉️  Puedes contactar conmigo en [estudio@hawara.es.](mailto:estudio@hawara.es.)
-*   🧠  Estoy trabajando para aplicar los últimos avances en informática a la transformación social.
